@@ -1,0 +1,13 @@
+{
+  "input": "presentation.md",
+  "mode": "slides",
+  "format": "html",
+  "output": "../output/HPC-matirx.html",
+  "language": "en",
+  "preview": false,
+  "logo": {
+    "path": "heu.png",
+    "scale": 2,
+    "position": "top-right"
+  }
+}
